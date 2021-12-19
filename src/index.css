@@ -192,6 +192,10 @@ input:focus {
   color: #fff;
   cursor: pointer;
 }
+.active {
+  color:pink;
+  background:red
+}
 
 .about-link a {
   color: #fff;
